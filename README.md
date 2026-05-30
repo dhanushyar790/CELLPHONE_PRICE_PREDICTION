@@ -49,6 +49,3 @@ This demonstrates a **moderate correlation** between RAM and Price, showing that
 - **SciPy (Winsorization)**  
 
 ---
-
-# Run the script
-python main.py
